@@ -23,5 +23,5 @@ This project fine-tunes a pre-trained BERT model to classify IMDb movie reviews 
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/sentiment-analysis-bert.git
-   cd sentiment-analysis-bert
+   git clone git@github.com:arbaazali872/IMDBert.git
+   cd IMDBert
